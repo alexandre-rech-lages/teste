@@ -1055,11 +1055,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Projetos Visual Studio\\SolutionServerTeste\\WebAppServerTeste\\WebAppServerTeste.csproj",
+      "projectUniqueName": "D:\\Projetos Visual Studio\\teste\\server\\WebAppServerTeste\\WebAppServerTeste.csproj",
       "projectName": "WebAppServerTeste",
-      "projectPath": "D:\\Projetos Visual Studio\\SolutionServerTeste\\WebAppServerTeste\\WebAppServerTeste.csproj",
+      "projectPath": "D:\\Projetos Visual Studio\\teste\\server\\WebAppServerTeste\\WebAppServerTeste.csproj",
       "packagesPath": "C:\\Users\\Alexandre Rech\\.nuget\\packages\\",
-      "outputPath": "D:\\Projetos Visual Studio\\SolutionServerTeste\\WebAppServerTeste\\obj\\",
+      "outputPath": "D:\\Projetos Visual Studio\\teste\\server\\WebAppServerTeste\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Alexandre Rech\\AppData\\Roaming\\NuGet\\NuGet.Config",

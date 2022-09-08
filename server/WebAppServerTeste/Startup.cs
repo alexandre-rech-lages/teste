@@ -21,6 +21,8 @@ namespace WebAppServerTeste
         public Startup(IConfiguration configuration)
         {
             Configuration = configuration;
+
+            //mais um teste
         }
 
         public IConfiguration Configuration { get; }

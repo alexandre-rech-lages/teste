@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "QuZkA7554ZSNS26WGRYtOPIgsDHkSsHRhXQ4DezEbJsH8042K+sd3wfdwk1DmoU6F/71RqH8fQpFE9YI6p1cyQ==",
+  "dgSpecHash": "nVS0Jmk12qOugYoPIbbCUz/e3qvM5tzScTU04iWzI8qdPJqJMPREy71XJJGnkoIwOF3GHFEe1S35P4fq9MgSzA==",
   "success": true,
-  "projectFilePath": "D:\\Projetos Visual Studio\\SolutionServerTeste\\WebAppServerTeste\\WebAppServerTeste.csproj",
+  "projectFilePath": "D:\\Projetos Visual Studio\\teste\\server\\WebAppServerTeste\\WebAppServerTeste.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Alexandre Rech\\.nuget\\packages\\azure.core\\1.4.1\\azure.core.1.4.1.nupkg.sha512",
     "C:\\Users\\Alexandre Rech\\.nuget\\packages\\azure.identity\\1.2.3\\azure.identity.1.2.3.nupkg.sha512",
